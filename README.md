@@ -1,6 +1,6 @@
 # DIY electronic modules for tinkerers
 
-![A LED dimmer circuit]({{site.baseurl}}/assets/leddimmer.gif)
+![A LED dimmer circuit]((https://github.com/pravin-vaz/cardboardtronics/blob/master/assets/leddimmer.gif))
 
 **#cardboardcircuits** are electronic modules built of cardboard, glue and scrap electronics. Modules are built by the kids themselves and electronic parts are sourced from deconstructing toys and other every day electronic gadgets. The modules are built from common classroom materials such as cardboard and binder clips. 
 
