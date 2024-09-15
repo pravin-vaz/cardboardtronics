@@ -1,6 +1,6 @@
 # Controllers
 
-![Controller modules]({{site.baseurl}}/assets/controller.jpg)
+![Controller modules](/assets/controller.jpg)
 
 A **controller** module has integrate behavior to relate **inputs** to **outputs**. A controller may be built out of simple electronic components and/or microcontrollers. 
 
@@ -10,4 +10,4 @@ We will use microcontrollers supported by https://makecode.com in this guide but
 
 The module color is **yellow** for controllers. For controllers you can also overlay more colors to denote their capabilities.
 
-* [micro:bit]({{site.baseurl}}/modules/controller/microbit)
+* [micro:bit](/modules/controller/microbit)
