@@ -1,8 +1,8 @@
 # Speaker
 
-The speaker module turns electrical current into sounds! This module is a bit special because it requires to be connected to a module that produce electrical "tones" rather than flat current. Typically, you'll use a [controller]({{site.baseurl}}/modules/controler) to do that.
+The speaker module turns electrical current into sounds! This module is a bit special because it requires to be connected to a module that produce electrical "tones" rather than flat current. Typically, you'll use a [controller](/modules/controler) to do that.
 
-![A LED module]({{site.baseurl}}/assets/modules/output/speaker/demo.jpg)
+![A LED module](/assets/modules/output/speaker/demo.jpg)
 
 Some tiny speakers can be powered directly from a micro-controller, however other ones need to have an amplifier. For simple square tones, a single transistor or MOSFET can be used.
 
@@ -16,13 +16,13 @@ Some tiny speakers can be powered directly from a micro-controller, however othe
 
 ## Circuits
 
-In this circuit, the speaker is attached to the MOSFET ``0`` of the [micro:bit relay module]({{site.baseurl}}/modules/controller/microbit/relay).
+In this circuit, the speaker is attached to the MOSFET ``0`` of the [micro:bit relay module](/modules/controller/microbit/relay).
 The code on the micro:bit generates square tones on pin ``0`` which open and close the current flowing via the MOSFET.
 
-![A circuit using speaker module]({{site.baseurl}}/assets/modules/output/speaker/circuit.jpg)
+![A circuit using speaker module](/assets/modules/output/speaker/circuit.jpg)
 
 <div style="position:relative;height:0;padding-bottom:56%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/fi5YdQAJYJI" frameborder="0" allowfullscreen></iframe></div>
 
 ## Gallery
 
-![A speaker module]({{site.baseurl}}/assets/modules/output/speaker/speaker2.jpg)
+![A speaker module](/assets/modules/output/speaker/speaker2.jpg)
