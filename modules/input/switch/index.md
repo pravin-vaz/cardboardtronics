@@ -9,19 +9,19 @@ If we are lucky, the switch terminals are soldered to cables
 and we can use the cable-binder connecting to connect them into a
 module.
 
-![A switch module]({{site.baseurl}}/assets/switch.JPG)
+![A switch module](/assets/switch.JPG)
 
 Toggle switches have terminals with mounted screws. 
 We can either thread recycled cables or use paper clips to connect them to the binder clips.
 
-![A switch between two circuits]({{site.baseurl}}/assets/threewayswitch.jpg)
+![A switch between two circuits](/assets/threewayswitch.jpg)
 
 ## Gallery
 
-![A light switch module]({{site.baseurl}}/assets/modules/switch-knife.jpg)
+![A light switch module](/assets/modules/switch-knife.jpg)
 
-![A switch module]({{site.baseurl}}/assets/modules/switch-recycled.jpg)
+![A switch module](/assets/modules/switch-recycled.jpg)
 
-![A switch module]({{site.baseurl}}/assets/modules/switch-recycled-2.jpg)
+![A switch module](/assets/modules/switch-recycled-2.jpg)
 
-![A switch module]({{site.baseurl}}/assets/modules/switch-recycled-paper-clip.jpg)
+![A switch module](/assets/modules/switch-recycled-paper-clip.jpg)
