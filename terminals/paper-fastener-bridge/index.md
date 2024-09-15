@@ -14,7 +14,7 @@ Use a hole puncher and _very carefully_ scissors to punch a hole for the paper f
 
 Slide the cables in between the legs of the fasterner and secure it in the hole
 
-![Connect cable and resistor between paper fastener legs]({/assets/paperfasternerconnect.jpg)
+![Connect cable and resistor between paper fastener legs](/assets/paperfasternerconnect.jpg)
 
 ### Step 3: complete the circuit
 
