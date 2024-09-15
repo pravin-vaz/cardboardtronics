@@ -53,7 +53,7 @@ Modules are built by the children themselves and they are encourage to customize
 We follow the [little Bits color convention](http://discuss.littlebits.cc/t/what-do-the-different-colors-of-modules-mean/157) to
 categorize the modules: power = blue, input = pink, output = green, wire = orange and (new) controller = yellow.
 
-![Modules categories]({}/assets/modules.jpg)
+![Modules categories](/assets/modules.jpg)
 
 Kids can also use the cardboard to write a manual for the component they just built.
 
