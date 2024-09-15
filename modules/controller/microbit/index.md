@@ -1,6 +1,6 @@
 # micro:bit
 
-![A radio-controlled micro:bit car]({{site.baseurl}}/assets/microbitradiocar.gif)
+![A radio-controlled micro:bit car](/assets/microbitradiocar.gif)
 
 A [micro:bit](https://makecode.microbit.org) is a small computer, called _microcontroller_, 
 that can interact with other electronic devices. Aside from the onboard screen, sensors and radio capabilities, the micro:bit can control LEDs, servos or motor controllers via large hole connector on the bottom. The micro:bit is easily programmed with a [kid frienly code editor](https://makecode.microbit.org).
@@ -11,5 +11,5 @@ Do not plug DC motors directly into the micro:bit. The pins on the edge connecto
 
 ## Modules
 
-* [Relay]({{site.baseurl}}/modules/controller/microbit/relay)
-* [Tone amplifier]({{site.baseurl}}/modules/controller/microbit/tone-amplifier)
+* [Relay](/modules/controller/microbit/relay)
+* [Tone amplifier](/modules/controller/microbit/tone-amplifier)
