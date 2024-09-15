@@ -1,15 +1,15 @@
 # Input modules
 
-![Input modules]({{site.baseurl}}/assets/input.jpg)
+![Input modules](/assets/input.jpg)
 
 Input modules allow open or close circuits, change resistance and more.
 
-* [Switch]({{site.baseurl}}/modules/input/switch)
-* [Toggle switch]({{site.baseurl}}/modules/input/toggle-switch)
-* [Push button]({{site.baseurl}}/modules/input/push-button)
-* [Potentiometer]({{site.baseurl}}/modules/input/potentiometer)
-* [Bidirectional Toggle Switch]({{site.baseurl}}/modules/input/bidirectional-toggle-switch)
-* [Dual Bidirectional Toggle Switch]({{site.baseurl}}/modules/input/dual-bidirectional-toggle-switch)
-* [LED optoisolator]({{site.baseurl}}/modules/input/led-optoisolator)
-* [MOSFET switch]({{site.baseurl}}/modules/input/mosfet-switch)
-* [Motor speed regulator]({{site.baseurl}}/modules/input/motor-speed-regulator)
+* [Switch](/modules/input/switch)
+* [Toggle switch](/modules/input/toggle-switch)
+* [Push button](/modules/input/push-button)
+* [Potentiometer](/modules/input/potentiometer)
+* [Bidirectional Toggle Switch](/modules/input/bidirectional-toggle-switch)
+* [Dual Bidirectional Toggle Switch](/modules/input/dual-bidirectional-toggle-switch)
+* [LED optoisolator](/modules/input/led-optoisolator)
+* [MOSFET switch](/modules/input/mosfet-switch)
+* [Motor speed regulator](/modules/input/motor-speed-regulator)
