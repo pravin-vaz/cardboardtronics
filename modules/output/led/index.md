@@ -13,7 +13,7 @@ The 200Ω resitors has 2 red lines and 1 black line. You can find tons of apps o
 together with a terminal of the resistor
 * Clamp the remaining resitor terminal to a binder clip
 
-![A LED module]({{site.baseurl}}/assets/ledmodule.jpg)
+![A LED module](/assets/ledmodule.jpg)
 
 ## Make
 
@@ -21,14 +21,14 @@ together with a terminal of the resistor
 
 ## Gallery
 
-![A LED module]({{site.baseurl}}/assets/modules/led.jpg)
+![A LED module](/assets/modules/led.jpg)
 
-![A LED module]({{site.baseurl}}/assets/modules/led-headlights.jpg)
+![A LED module](/assets/modules/led-headlights.jpg)
 
-![A LED module]({{site.baseurl}}/assets/modules/led-straw.jpg)
+![A LED module](/assets/modules/led-straw.jpg)
 
-![A LED module]({{site.baseurl}}/assets/modules/led-straw-2.jpg)
+![A LED module](/assets/modules/led-straw-2.jpg)
 
-![A LED module]({{site.baseurl}}/assets/modules/led-straw-3.jpg)
+![A LED module](/assets/modules/led-straw-3.jpg)
 
-![A LED module]({{site.baseurl}}/assets/modules/led-dual-straw.jpg)
+![A LED module](/assets/modules/led-dual-straw.jpg)
