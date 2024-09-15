@@ -1,14 +1,14 @@
 # Power modules
 
-![Power modules]({{site.baseurl}}/assets/power.jpg)
+![Power modules](/assets/power.jpg)
 
 The modules assume that a 5V or 6V DC electrical power is available.
 3 AA batteries, 4 recheargable AA or any USB power brick works in that setting.
 
 The module color is **blue** for power modules.
 
-* [USB power pack module]({{site.baseurl}}/modules/power/usb-power-pack)
-* [Battery pack module]({{site.baseurl}}/modules/power/battery-pack)
+* [USB power pack module](/modules/power/usb-power-pack)
+* [Battery pack module](/modules/power/battery-pack)
 
 ## Safety
 
