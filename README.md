@@ -84,7 +84,7 @@ Thus, coding has a meaning, it allows to build amazing stuff.
 
 ## Open Source On GitHub
 
-The sources of this web sites are available at [https://github.com/Microsoft/cardboard-circuits](https://github.com/pravin-vaz/cardboardtronics)
+The sources of this web sites are available at [https://github.com/pravin-vaz/cardboardtronics](https://github.com/pravin-vaz/cardboardtronics)
 
 ## Acknowledgments
 
