@@ -19,7 +19,7 @@ The various modules are connected with DIY terminals and cables.
 Do you already have Tinker Studio's circuit boards? They are compatible! Moreover, if you have access to a woodshop, tinkerers could also
 build their modules out of woods and nails.
 
-![A set of wooden circuit boards at the Pacific Science Center Tinker Tank](/assets/circuitboards.jpg)
+![A set of wooden circuit boards at the Pacific Science Center Tinker Tank](/assets/circuit-boards.jpg)
 
 ## Contribute more modules
 
