@@ -1,6 +1,6 @@
 # micro:bit Relay
 
-![A relay module]({{site.baseurl}}/assets/modules/controller/microbit/relay/demo.jpg)
+![A relay module](/assets/modules/controller/microbit/relay/demo.jpg)
 
 The **micro:bit relay** allows to control two motors or speakers controlled by the micro:bit. 
 The pins ``P0`` and ``P2`` are used to control a MOSFET that allow large current to flow on two circuits.
@@ -20,11 +20,11 @@ The pins ``P0`` and ``P2`` are used to control a MOSFET that allow large current
 
 * connecting the mosfet to the edge connector
 
-![Using a machine screw to the edge connector]({{site.baseurl}}/assets/modules/controller/microbit/relay/edgeconnector.jpg)
+![Using a machine screw to the edge connector](/assets/modules/controller/microbit/relay/edgeconnector.jpg)
 
 * a single MOSFET circuit
 
-![micro:bit with single MOSFET circuit]({{site.baseurl}}/assets/modules/controller/microbit/relay/half.jpg)
+![micro:bit with single MOSFET circuit](/assets/modules/controller/microbit/relay/half.jpg)
 
 ## Code
 
