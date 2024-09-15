@@ -2,7 +2,7 @@
 
 A potentiometer controls the voltage going through each circuit, it acts a voltage divider between two circuits.
 
-![A potentiometer module]({{site.baseurl}}/assets/modules/potentiometer.jpg)
+![A potentiometer module](/assets/modules/potentiometer.jpg)
 
 ## What can go wrong?
 
