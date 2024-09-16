@@ -6,21 +6,21 @@ A RC race car will usually have 2 DC motors and some radio electronics to contro
 
 ## Make
 
-![Race car start]({{site.baseurl}}/assets/racecarstart.jpg)
+![Race car start](/assets/racecarstart.jpg)
 
 * using a small Phillips screwdriver, remove the cover
 
-![Race car opened]({{site.baseurl}}/assets/racecaropened.jpg)
+![Race car opened](/assets/racecaropened.jpg)
 
 * remove the electronics and trim the cables
 
-![Race car wired]({{site.baseurl}}/assets/racecarreadytowire.jpg)
+![Race car wired](/assets/racecarreadytowire.jpg)
 
 * glue a cardboard and mount the cables using binder clips
 
-![Race car module]({{site.baseurl}}/assets/racecarmodule.jpg)
+![Race car module](/assets/racecarmodule.jpg)
 
 * use power modules, switches and more to bring your car to life!
 
-![Race car drifting]({{site.baseurl}}/assets/racecardrifting.gif)
+![Race car drifting](/assets/racecardrifting.gif)
 
