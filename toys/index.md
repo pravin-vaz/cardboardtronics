@@ -1,6 +1,6 @@
 # Toys
 
-![A pile of toys]({{site.baseurl}}/assets/toys.jpg)
+![A pile of toys](/assets/toys.jpg)
 
 Most modules can be built from deconstructed toys and other common items. 
 Thrift shops, garage sales and other recycling centers are great places to track down
@@ -11,6 +11,6 @@ in which those components are being used "for real".
 
 > Opening and deconstructing a toy will mostly likely void any kind of warranty.
 
-* [Game controller]({{site.baseurl}}/toys/game-controller)
-* [RC race car]({{site.baseurl}}/toys/rc-race-car)
-* [RC dirt car]({{site.baseurl}}/toys/rc-dirt-car)
+* [Game controller](/toys/game-controller)
+* [RC race car](/toys/rc-race-car)
+* [RC dirt car](/toys/rc-dirt-car)
