@@ -89,12 +89,10 @@ The sources of this web sites are available at [https://github.com/pravin-vaz/ca
 
 ## Acknowledgments
 
-A special thanks for the [Pacific Science Center Tinker Tank](https://www.pacificsciencecenter.org/tinker-tank/) team at the Pacific Science Center in Seattle.
+A special thanks for the [Pacific Science Center Tinker Tank](https://www.pacificsciencecenter.org/tinker-tank/) team at the Pacific Science Center in Seattle and [Microsoft](https://github.com/Microsoft/cardboard-circuits)  
 
 ## License
 
 MIT
 
-## Code of Conduct
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
