@@ -11,13 +11,13 @@ When the circuit is shorted, the high current heats up the fuse which eventually
 
 * using a paper connector, connect the positive cable to one end of the fuse. Connect the other end of the fuse to a binder clip.
 
-![Connecting the positive cable through the resetable fuse]({{site.baseurl}}/assets/resetablefuse.jpg)
+![Connecting the positive cable through the resetable fuse](/assets/resetablefuse.jpg)
 
 * Add add a protective layer of cardboard above the fuse to
 prevent burns.
 
-![A battery pack module]({{site.baseurl}}/assets/batterypower.jpg)
+![A battery pack module](/assets/batterypower.jpg)
 
 ## Gallery
 
-![A 3-AAA battery pack]({{site.baseurl}}/assets/modules/battery-pack.jpg)
+![A 3-AAA battery pack](/assets/modules/battery-pack.jpg)
