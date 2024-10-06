@@ -8,7 +8,7 @@ Cardboard circuits are inspired from **[Tinkering Studio circuit boards](https:/
 
 > Sharing your creations on social media? Use **#cardboardtronics** in [Twitter](https://twitter.com/search?q=%23cardboardcircuit) or [Instagram](https://www.instagram.com/explore/tags/cardboardcircuit/).
 
-* [Safety guidelines](docs/safety)
+* [Safety guidelines]({{ site.github.repository_url }}/safety)
 * [Toys](/toys)
     * [Game controller](/toys/game-controller)
     * [RC race car](/toys/rc-race-car)
